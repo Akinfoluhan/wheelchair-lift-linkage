@@ -66,7 +66,6 @@ The prototype demonstrated the intended motion and helped identify practical con
 - media/
   - figures/
   - videos/
-    - assembly-movie.avi
     - assembly-movie.mp4
 
 ## Tools used
